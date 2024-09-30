@@ -73,7 +73,7 @@ body{
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    background-color: #00F5A0;
+    background-image: linear-gradient(to right, #00F5A0 0%, #00D9F5 100%);
     position: absolute;
     display: flex;
     justify-content: center;
