@@ -25,14 +25,20 @@ body{
 #card_background h2{
     margin-top: 25px;
     margin-left: 25px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
     font-size: 33px;
     color: black;
     text-transform: capitalize;
 }
 
-#card_background h4{
+#card_background h4{8
     margin-top: 5px;
     margin-left: 25px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     font-size: 16px;
     color: #717171;
     text-transform: capitalize;
@@ -51,9 +57,12 @@ body{
 }
 
 #card_background h3{
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
     font-size: 35px;
     color: black;
-    margin: 425.45px 238.75px 40.5px 25px;
+    margin: 433.45px 238.75px 42.5px 25px;
     position: absolute;
 }
 
